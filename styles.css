@@ -1,0 +1,25 @@
+
+.container {
+    background: rgba(46, 144, 225, 0.42);
+    padding:1rem;
+    width: 100vw;
+}
+div {
+    border-radius: 10px;
+}
+.row {
+    gap:1rem;
+}
+
+.col-sm {
+    background-color: rgb(101, 186, 158);
+}
+.col-md {
+    background-color: rgba(210, 210, 91, 0.822);
+}
+.col-lg {
+    background-color: rgb(237, 137, 237);
+}
+.col-xl {
+    background-color: rgb(245, 118, 95);
+}
